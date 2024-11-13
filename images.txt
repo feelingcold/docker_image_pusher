@@ -1,1 +1,3 @@
-Grafana
+ghcr.io/linuxserver/dillinger:latest
+quay.io/hedgedoc/hedgedoc:1.9.8
+etherpad/etherpad:latest
