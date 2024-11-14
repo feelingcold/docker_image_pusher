@@ -1,1 +1,2 @@
-janeczku/dropbox
+axboy/leanote
+ghcr.io/toeverything/affine-self-hosted:pre-alpha
