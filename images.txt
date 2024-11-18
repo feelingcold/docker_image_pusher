@@ -1,2 +1,1 @@
-axboy/leanote
-ghcr.io/toeverything/affine-self-hosted:pre-alpha
+python:3.9-slim
