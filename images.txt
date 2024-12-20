@@ -1,1 +1,1 @@
-ceph/daemon
+ceph/daemon:latest-nautilus
