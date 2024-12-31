@@ -1,1 +1,1 @@
-ceph/daemon:latest-nautilus
+nvidia/cuda:11.6-centos7
