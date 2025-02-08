@@ -1,2 +1,3 @@
-shichao01/nginx-ingress-controller:0.30.0
-juestnow/ingress-nginx:v1.2.0
+labring/kubernetes:v1.25.0
+labring/helm:v3.8.2
+labring/calico:v3.24.1
