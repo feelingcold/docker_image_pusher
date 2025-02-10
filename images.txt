@@ -1,1 +1,1 @@
-lizhenliang/flannel:v0.11.0-amd64
+prom/node-exporter:v0.16.0
