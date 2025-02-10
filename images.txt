@@ -1,1 +1,1 @@
-coredns/coredns:1.8.0
+lizhenliang/flannel:v0.11.0-amd64
