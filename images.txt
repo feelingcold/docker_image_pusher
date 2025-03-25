@@ -1,1 +1,1 @@
-arm64/jlesage/firefox:latest
+jlesage/firefox:latest@sha256:1199e4581c3c82537c93c52512250a9f19b0ead2e1d811e7e935d39a54ef60ae
