@@ -1,1 +1,1 @@
-ossrs/sys
+jlesage/firefox:latest@sha256:ef62e3e0046fc9c29dd8e22ca41b768d92fdd5eee168235922231e2452a85c6f
