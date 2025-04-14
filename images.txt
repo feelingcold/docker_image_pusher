@@ -1,1 +1,1 @@
-mongo:latest@sha256:ab6556e6d71d9773dd74002db924dc637abb49d079d6ef945982af3078fdf22c
+linux/arm64/v8/mongo:latest
