@@ -1,1 +1,1 @@
-atmoz/sftp
+atmoz/sftp:latest
