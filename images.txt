@@ -1,1 +1,3 @@
-lscr.io/linuxserver/chromium:latest
+zabbix/zabbix-proxy-sqlite3
+zabbix/zabbix-agent2
+zabbix/zabbix-java-gateway
