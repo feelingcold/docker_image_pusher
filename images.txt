@@ -1,4 +1,5 @@
-zabbix/zabbix-server-mysql:6.0-ubuntu-latest
-mysql:8.0
-zabbix/zabbix-web-nginx-mysql:6.0-ubuntu-latest
-zabbix/zabbix-agent:6.0-ubuntu-lates
+kube-state-metrics/kube-state-metrics
+zabbix/zabbix-proxy-sqlite3
+zabbix/zabbix-agent2
+zabbix/zabbix-server-mysql:6.2.6-centos
+zabbix/zabbix-web-nginx-mysql:6.2.6-centos
