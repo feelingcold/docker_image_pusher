@@ -1,3 +1,4 @@
-zabbix/zabbix-proxy-sqlite3
-zabbix/zabbix-agent2
-zabbix/zabbix-java-gateway
+zabbix/zabbix-server-mysql:6.0-ubuntu-latest
+mysql:8.0
+zabbix/zabbix-web-nginx-mysql:6.0-ubuntu-latest
+zabbix/zabbix-agent:6.0-ubuntu-lates
