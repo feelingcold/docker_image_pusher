@@ -1,1 +1,9 @@
-zabbix/zabbix-agent:7.0-centos-latest
+mysql:8.0-oracle
+zabbix/zabbix-server-mysql:alpine-7.2-latest
+zabbix/zabbix-snmptraps:alpine-7.2-latest
+zabbix/zabbix-proxy-sqlite3:alpine-7.2-latest
+zabbix/zabbix-proxy-mysql:alpine-7.2-latest
+zabbix/zabbix-java-gateway:alpine-7.2-latest
+zabbix/zabbix-web-service:alpine-7.2-latest
+zabbix/zabbix-agent:alpine-7.2-latest
+zabbix/zabbix-web-nginx-mysql:alpine-7.2-latest
