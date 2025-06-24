@@ -1,1 +1,1 @@
-cp-zookeeper:7.3.10
+zookeeper
