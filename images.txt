@@ -1,1 +1,1 @@
-zookeeper
+centos:7
