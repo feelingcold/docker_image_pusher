@@ -1,1 +1,1 @@
-ygqygq2/fastdfs-nginx
+season/fastdfs:1.2
