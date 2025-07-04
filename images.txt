@@ -1,1 +1,1 @@
-season/fastdfs
+ecarpo/fastdfs-nginx:5
