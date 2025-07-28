@@ -1,3 +1,1 @@
-zabbix/zabbix-proxy-sqlite3:alpine-6.0.33
-zabbix/zabbix-agent2:alpine-6.0.33
-zabbix/zabbix-java-gateway:alpine-7.0.4
+jimmidyson/configmap-reload:v0.5.0
